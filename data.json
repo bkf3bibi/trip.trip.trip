@@ -1,0 +1,76 @@
+
+{
+  "lastUpdated": "2024-05-20",
+  "attractions": [
+    {
+      "id": "1",
+      "region": "台北",
+      "district": "大同區",
+      "name": "大稻埕碼頭",
+      "category": "約會",
+      "description": "古色古香的街道配上美麗的河岸夕陽，非常適合情侶漫步與享受貨櫃市集美食。",
+      "suggestedDuration": "2-3 小時",
+      "address": "台北市大同區民生西路底",
+      "rating": 4.8,
+      "popularity": 92,
+      "lat": 25.0566,
+      "lng": 121.5074
+    },
+    {
+      "id": "2",
+      "region": "台中",
+      "district": "清水區",
+      "name": "高美濕地",
+      "category": "風景",
+      "description": "世界級的日落美景與豐富的潮間帶生態，被譽為台灣版天空之鏡。",
+      "suggestedDuration": "1.5 小時",
+      "address": "台中市清水區大環路",
+      "rating": 4.9,
+      "popularity": 95,
+      "lat": 24.3120,
+      "lng": 120.5501
+    },
+    {
+      "id": "3",
+      "region": "台南",
+      "district": "中西區",
+      "name": "牛肉湯街頭巡禮",
+      "category": "特色小吃",
+      "description": "體驗最道地的台南早餐，現切溫體牛沖入熱湯，鮮甜滋味不容錯過。",
+      "suggestedDuration": "1 小時",
+      "address": "台南市中西區海安路二段",
+      "rating": 4.7,
+      "popularity": 88,
+      "lat": 22.9975,
+      "lng": 120.2014
+    },
+    {
+      "id": "4",
+      "region": "高雄",
+      "district": "鹽埕區",
+      "name": "駁二藝術特區",
+      "category": "有趣",
+      "description": "由舊倉庫改造的文化空間，充滿創意裝置藝術、展覽與手作商店。",
+      "suggestedDuration": "3-4 小時",
+      "address": "高雄市鹽埕區大勇路1號",
+      "rating": 4.6,
+      "popularity": 90,
+      "lat": 22.6191,
+      "lng": 120.2815
+    },
+    {
+      "id": "5",
+      "region": "花蓮",
+      "district": "秀林鄉",
+      "name": "太魯閣燕子口",
+      "category": "風景",
+      "description": "壯麗的大理石峽谷景觀，感受大自然的鬼斧神工。",
+      "suggestedDuration": "2 小時",
+      "address": "花蓮縣秀林鄉富世村太魯閣峽谷",
+      "rating": 4.9,
+      "popularity": 98,
+      "lat": 24.1721,
+      "lng": 121.6135
+    }
+  ]
+}
